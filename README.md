@@ -4,7 +4,7 @@
 
 # 📝 Homework #11: Text Editor (J.A.T.E.)
 
-📌 [Link to Deployed Application](https://herokuapp.com/)
+📌 [Link to Deployed Application](https://m19jate.herokuapp.com/)
 
 ## 🔨 Task
 Create a text/code editor that functions on a single page, follows PWA criteria, and works offline. The application will also able to be downloaded onto your computer or mobile device to be used outside of the browser.
@@ -19,7 +19,7 @@ Create a text/code editor that functions on a single page, follows PWA criteria,
 - [Express](https://expressjs.com/)
 
 ## 📎 How to Use
-Visit the [deployed application](https://herokuapp.com/) where you will be presented with a code/text editor. Any code or text you add will save automatically whenever you click off of the window. On refresh or revisit, the text is persistent and saved in IndexedDB.
+Visit the [deployed application](https://m19jate.herokuapp.com/) where you will be presented with a code/text editor. Any code or text you add will save automatically whenever you click off of the window. On refresh or revisit, the text is persistent and saved in IndexedDB.
 
 ![App in-browser](images/usage-1.png)
 
